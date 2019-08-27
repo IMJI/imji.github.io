@@ -1,0 +1,20 @@
+{
+  "name": "imji.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git add --all && git commit -m \"Deploy\" && git push -u origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imji/imji.github.io.git"
+  },
+  "author": "imjiimages",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imji/imji.github.io/issues"
+  },
+  "homepage": "https://github.com/imji/imji.github.io#readme"
+}
